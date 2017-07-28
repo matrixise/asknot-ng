@@ -1,0 +1,6 @@
+tree:
+  children:
+    - title: Ambassador
+      subtitle: the representatives of Python
+    #   image: https://badges.fedoraproject.org/pngs/fas-ambassador.png
+      href: https://python.org/psf

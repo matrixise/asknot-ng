@@ -1,0 +1,13 @@
+tree:
+  children:
+    - title: Python
+      subtitle: a dynamic language for rapid development
+      segue1: So, you enjoy traceback-driven development?  What could go wrong?
+      segue2: Are you interested in hacking on...
+      children: coding/python.yml
+
+    - title: C
+      subtitle: close to the metal
+      segue1: So, you think OOP is for hipsters?  Let me tell you, back in my day...
+      segue2: How about working on...
+      children: coding/c.yml
